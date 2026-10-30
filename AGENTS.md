@@ -1,25 +1,17 @@
-# Repository Guidelines
+# 仓库协作指南
 
-## Project Structure & Module Organization
+## 项目目标与协作方式
 
-This checkout currently has no application code, tests, assets, build manifests, or Git metadata. As the project is established, keep implementation in `src/`, mirror its feature layout under `tests/`, place reusable examples or static files in `assets/`, and put design or usage notes in `docs/`. Keep each module focused on one research workflow or capability.
+本项目用于课堂讲解如何使用 Codex 辅助科研。课程框架和具体内容由授课者提供，并将逐步完善。严格依据授课者给出的目标、顺序、术语和取舍开展工作；未经要求，不擅自重构课程或扩展主题。遇到影响准确性或讲解逻辑的信息缺口，应明确标出并请授课者补充，不要自行编造。
 
-## Build, Test, and Development Commands
+## 主要交付：课堂口播稿
 
-No build, run, or test commands are configured yet. When adding a language or framework, document its setup and the exact commands for local development, tests, and linting here (for example, the package-manager test command). Do not assume a command succeeds until its toolchain and configuration are checked in.
+优先编写可直接朗读的中文口播稿，面向课堂听众，避免写成论文或说明书。表达要自然、清楚、易听懂：多用常用词和短句，解释必要的专业概念，安排顺畅的段落衔接，并用贴合科研场景的例子帮助理解。保留关键概念和操作步骤，不为追求口语化而牺牲准确性。需要展示幻灯片、切换界面或现场操作时，用独立提示标注，并与实际口播内容区分。
 
-## Coding Style & Naming Conventions
+## 内容组织与修改
 
-No formatter or language-specific style configuration exists yet. Follow the conventions and formatter of the language selected for each component, and check in shared configuration so contributors get consistent results. Use descriptive, feature-oriented names; keep Markdown files UTF-8 with clear headings and concise examples.
+按授课者给定的课程框架和顺序组织材料；文件名应能看出课次与主题，例如 `第01讲_用Codex辅助科研.md`。修改时优先处理授课者指定的部分，保留未要求变动的内容和原意。提交口播稿时，直接给出连贯、可朗读的正文；只有在有助于备课时，才补充简短的讲者提示。
 
-## Testing Guidelines
+## 文件与工具
 
-There is no test framework or coverage requirement in this checkout. Add tests under `tests/`, using names that identify the feature or behavior they cover, and document a single reproducible test command when a test runner is introduced. Include a regression test when fixing a defect.
-
-## Commit & Pull Request Guidelines
-
-No Git history is available to establish an existing commit convention. Use short, imperative commit subjects such as `Add paper search workflow`. Pull requests should explain the change and its motivation, list validation performed, link related issues when applicable, and include screenshots for UI or visual changes.
-
-## Security & Configuration
-
-Keep credentials and machine-specific settings out of source control. Use environment variables or ignored local configuration for secrets, and provide sanitized example configuration when setup requires it.
+仓库以课程材料和口播稿为主，使用 UTF-8 编码的 Markdown，并用清晰标题划分课次和讲解段落。目前没有软件构建或测试命令；若后续加入代码或演示项目，再为其补充运行与验证说明。
