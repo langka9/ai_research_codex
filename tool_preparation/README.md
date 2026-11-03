@@ -1,7 +1,7 @@
 1. `skills-manager-cli-Windows-x64.exe` 是一个用于管理和安装 Skill 的工具。你可以通过它来安装、更新和卸载 Skill，安装好的 skill 可以加载到多个 agent 中。[https://github.com/xingkongliang/skills-manager.git]
-2. `Codex-Windows-x64.msix`是 codex 的 Windows 版本安装包，安装后可以在 Windows 系统上使用 Codex。
+2. `Codex-Windows-x64.msix`是 codex 的 Windows 版本安装包，安装后可以在 Windows 系统上使用 Codex。[https://github.com/Wangnov/codex-app-mirror.git]
 3. `Clash.Verge_2.5.9_x64-setup.exe`是一个用于科学上网的工具，可以帮助你访问被屏蔽的网站和服务。你可以通过它来配置代理服务器，实现网络访问的自由。这个软件是一个“外壳”，只有“外壳”无法实现科学上网，还需要科学上网的`订阅链接`，也就是“内核”。只是，这个外壳是一个比较好用的外壳。[https://github.com/clash-verge-rev/clash-verge-rev.git]
-4. `Claude-win-x64.msix`是 Claude Code 的桌面版应用。Claude Code 有桌面版和 VS Code 的插件版。但推荐使用 VS Code 的插件版。
+4. `Claude-win-x64.msix`是 Claude Code 的桌面版应用。Claude Code 有桌面版和 VS Code 的插件版。但推荐使用 VS Code 的插件版。[https://github.com/Wangnov/claude-app-mirror.git]
 5. 含有免费额度的 Agent：Workbuddy、Marvis。这两个 Agent 可以用来帮助你修改`Clash.Verge_2.5.9_x64-setup.exe`的配置。因为在校园网环境下，`Clash Verge`会连不上订阅节点，导致无法科学上网。当你安装好`Clash Verge`后，在`Clash Verge`的安装目录中使用 Workbuddy 或者 Marvis，发送以下 prompt，就可以解决了：
 ```markdown
 我现在电脑连接的是校园网，当我在使用校园网的时候打开 clash-verge  进行 VPN 连接的时候，会超时。但是，当我的电脑连接手机热点的时候，再打开 clash-verge  进行 VPN 连接的时候，就是正常连接。帮我解决这个问题
