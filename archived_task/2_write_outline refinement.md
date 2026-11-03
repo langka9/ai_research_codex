@@ -1,0 +1,2 @@
+1. `reference\Codex论文辅助全流程口播稿.md`是一个关于如何使用Codex进行论文辅助的详细口播稿，`reference\README.md`是关于该口播稿的一个框架介绍
+2. `course\outline.md`中记录了讲课的课程大纲和章节内容，但是内容太短了，完全看不出来里面讲了什么。因此，你要在`course\outline_refinement.md`中写一个详细版，要求能看出讲了哪些工具，怎么使用，以及口播稿是什么

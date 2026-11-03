@@ -1,0 +1,2 @@
+1. `reference\Codex论文辅助全流程口播稿.md`是一个关于如何使用Codex进行论文辅助的详细口播稿，`reference\README.md`是关于该口播稿的一个框架介绍
+2. `course\outline_refinement.md`中记录了讲课的课程大纲和章节内容以及口播重点。但是现在缺少详细的口播稿。因此，你要在`course\narration_script.md`中写一个详细的口播稿，详细程度包括开场白、打招呼、课程介绍、每个章节的讲解内容等。尽可能详细，全面。
