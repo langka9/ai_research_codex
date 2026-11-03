@@ -14,6 +14,7 @@
 - `reference/`：存放哔哩哔哩科研参考资料及其主题提要。
 - `course/`：存放课程材料；`course/outline.md` 是依据参考资料整理的简要备课初稿，`course/outline_refinement.md` 是按口播稿扩写的细化备课提纲，`course/narration_script.md` 是沿七个主题撰写的课堂口播稿，含独立标注的演示提示和转写待核实提示；这些材料都不代表已确认的最终课程框架。
 - `memory/`：按任务归档工作记录；每个任务建立独立子目录。
+- `tool_preparation/`：存放 Vibe Coding / AI Coding 相关工具及配套工具；`tool_preparation/README.md` 简要介绍这些工具并提供下载链接。
 - 课程框架和后续材料仍以授课者逐步给出的指导为准；新增课次或材料目录后，应在本文件中说明其用途。
 
 ## 任务记录
