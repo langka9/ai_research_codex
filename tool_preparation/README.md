@@ -13,3 +13,4 @@
 - 谷歌版浏览器插件链接：[https://chromewebstore.google.com/detail/jego-free-vpn-for-gemini/bnnamacamhjbdoimlbkegmbgkekphcbb?hl=zh-CN]
 7. `CC-Switch-v4.0.25-Windows.msi`：一个管理 AI api 的软件。[https://ccswitch.io/zh/]
 8. `VSCodeSetup-x64-1.144.1.exe`：一个代码编辑器，可以用来编写和调试代码；属于目前 AI 时代最好用的代码编辑器，里面可以安装 Claude Code、Codex、其他 Agent 插件。[https://code.visualstudio.com/download]
+9. `Git-2.56.0.4-64-bit.exe`：一个版本控制工具，可以用来管理代码的版本和协作开发。下载安装的时候找`Standalone Installer`版本。[https://git-scm.com/install/windows]
