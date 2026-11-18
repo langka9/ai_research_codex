@@ -5,3 +5,5 @@
 5. kimi 浏览器助手、kimi computer use
 6. 个人简历网页 skill，怎么在 github 网页上展示个人简历
 7. line 的介绍使用
+
+做完一个工作
