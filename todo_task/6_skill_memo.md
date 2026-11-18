@@ -6,6 +6,6 @@
 6. 个人简历网页 skill，怎么在 github 网页上展示个人简历
 7. line 的介绍使用
 8. 管理 skill
-9. 大模型的介绍、怎么使用 CC Switch
+9. 各大厂商大模型的介绍、怎么使用 CC Switch
 
 PPT 做得最好的是 kimi，画图画得最好的是 GPT
